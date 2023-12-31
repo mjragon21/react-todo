@@ -1,6 +1,6 @@
 # TODO LIST
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. Todo list with React and Vite by leveraging React's component-based structure for seamless task management and Vite's fast development environment for efficient and rapid prototyping. Utilize state management to handle task additions, deletions, providing users with a responsive and intuitive experience.
 
 Currently, two official plugins are available:
 
